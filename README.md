@@ -6,8 +6,8 @@ This is a test environment developed for experimenting Quantization of Neural Ne
 
 
 Special thanks <br /> 
-  i) (for providing pretrained models) <br />
-  ii)  (for providing the preprocessed imagenet validation samples with labels) <br /> 
-  iii) (for providing the base code on which we designed our experiments) <br /> 
+  i) [fchollet](https://github.com/fchollet/deep-learning-models/releases) (for providing pretrained models) <br />
+  ii) [aaron-xichen](https://github.com/aaron-xichen) (for providing the preprocessed imagenet validation samples with labels) <br /> 
+  iii) [] (for providing the base code on which we designed our experiments) <br /> 
 
 
