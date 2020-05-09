@@ -13,4 +13,8 @@ Special thanks to <br />
 
 Create a folder Data and store the preprocessed imagenet validation images <br />
 Create a folder Weights to save all the pretrained models <br />
-
+<br />
+We experimented with several methods like <br />
+i) Per layer and Per Channel Weight Quantization <br />
+ii) Average and Absolute Calibration of Output Activations <br />
+iii) Impact of Number of Samples of Calibration Data <br />
