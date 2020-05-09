@@ -10,3 +10,6 @@ Special thanks <br />
   ii) [aaron-xichen](https://github.com/aaron-xichen) for providing the preprocessed imagenet validation samples with labels <br />   
 
 
+Create a folder Data and store the preprocessed imagenet validation images <br />
+Create a folder Weights to save all the pretrained models <br />
+
